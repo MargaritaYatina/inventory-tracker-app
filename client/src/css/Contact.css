@@ -1,0 +1,42 @@
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  padding: 3rem;
+  font-family: sans-serif;
+}
+
+.ContactIntro {
+  color: #8d99ae;
+  margin-right: 0px;
+}
+
+.SubmitForm {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15px;
+}
+
+.Social {
+  margin-left: 14px;
+}
+
+.IconSocial {
+  font-size: 35px;
+}
+
+.TextForm {
+  width: 85%;
+}
+
+.Icon {
+  font-size: 30px;
+}
+
+.List {
+  margin-top: 20px;
+}
+
+.label {
+  margin-top: 15px;
+}

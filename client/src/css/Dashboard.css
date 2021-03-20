@@ -1,0 +1,21 @@
+.dash-container {
+  display: flex;
+  margin-top: 10px;
+  flex-direction: column;
+  padding: 20px;
+}
+.dash-header {
+  display: flex;
+  height: 4%;
+  flex-direction: space-around;
+  font-family: Merriweather;
+  margin: 10px;
+}
+.dash-tools {
+  display: flex;
+  flex-direction: row;
+}
+.dash-body {
+  display: flex;
+  margin-top: 10px;
+}

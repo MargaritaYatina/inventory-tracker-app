@@ -1,0 +1,18 @@
+.card-container {
+  margin: 10px;
+  background: rgb(255, 255, 255);
+  width: 22.5%;
+  height: 300px;
+  border: 2px solid dimgray;
+  border-radius: 8px;
+  overflow: auto;
+}
+.card-header {
+}
+.card-details {
+  margin-top: 5px;
+}
+
+.card-button {
+  margin-top: 3rem;
+}
